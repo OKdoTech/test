@@ -1,1 +1,1 @@
-Click[Here](https://pol.dk) to go to Politiken.dk
+Click[Here](https://www.pol.dk) to go to Politiken.dk
